@@ -3,7 +3,7 @@
 ## Overview
 This project uses multi-criteria GIS analysis in ArcGIS Pro to identify 
 optimal onshore wind turbine sites within a study area near Penrith, 
-Cumbria, UK — in support of the UK's 2030 clean power target. The workflow 
+Cumbria, UK,  in support of the UK's 2030 clean power target. The workflow 
 combines wind resource downscaling, suitability screening, energy-based 
 site ranking, and viewshed/population impact analysis to identify and 
 evaluate the three top-performing candidate sites.
