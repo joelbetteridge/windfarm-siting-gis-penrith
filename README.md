@@ -37,7 +37,7 @@ Cumbria, northern England (OS grid: SW 334349,509087 – NE 386094,586668).
    each candidate site, joined to 2011 Census data via LSOA boundaries to 
    estimate visual exposure and affected population.
 
-Full step-by-step ArcGIS Pro tool sequence is documented in `report.pdf` 
+Full step-by-step ArcGIS Pro tool sequence is documented in `appendix.pdf` 
 (Appendix).
 
 ## Key findings
@@ -61,6 +61,7 @@ terrain analysis, viewshed/visibility modelling, spatial data joins,
 reproducible GIS workflow documentation.
 
 ## Contents
+- `appendix.pdf`— step-by step ArcGis Pro instructions
 - `report.pdf` — full write-up including methods, results, discussion, 
   and step-by-step ArcGIS appendix
 - `figures/` — output maps (energy potential, suitability, visibility)
