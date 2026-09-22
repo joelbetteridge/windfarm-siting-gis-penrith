@@ -8,6 +8,8 @@ combines wind resource downscaling, suitability screening, energy-based
 site ranking, and viewshed/population impact analysis to identify and 
 evaluate the three top-performing candidate sites.
 
+The outcomes were written into a short report (report.pdf) for my Geographical Information Systems elective module.
+
 ## Study area
 A ~2,500 ha rectangular sub-region ("a62") within the wider Penrith area, 
 Cumbria, northern England (OS grid: SW 334349,509087 – NE 386094,586668).
@@ -65,3 +67,8 @@ reproducible GIS workflow documentation.
 - `report.pdf` — full write-up including methods, results, discussion, 
   and step-by-step ArcGIS appendix
 - `figures/` — output maps (energy potential, suitability, visibility)
+
+## Author
+
+**Joel Betteridge**    
+University of York, BSc Ecology (Second Year)
